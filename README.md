@@ -1,5 +1,5 @@
 ## Hi! My name is **Maurício Pires** 👨‍💻
-I'm a 17 years old student at IFPR 📓, web developer and designer 💻 and my goals are to get better 🚀 at front-end developing.
+I'm a 17 years old student at IFPR 📓, web developer and designer 💻 and my goals are to get better 🚀 at front-end development.
 
 **Technologies i'm working with**<br>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
